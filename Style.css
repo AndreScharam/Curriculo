@@ -1,0 +1,65 @@
+h1{
+    font-family: Arial;
+    text-align: center;
+    font-size: 35px;
+}
+
+#Contato{
+    font-family: Arial;
+    font-size: 28px;
+}
+
+.Contato_{
+    font-family: sans-serif;
+    box-shadow: 2px 2px 2px grey;
+    background-color: rgb(189, 184, 184);
+    font-size: 17px;
+    padding: 3px;
+}
+
+#Objetivo{
+    font-family: sans-serif;
+    font-size: 17px;
+    padding: 3px;
+}
+
+#XP{
+    font-family: Arial;
+    font-size: 28px;
+}
+
+.Experiencia{
+    font-family: sans-serif;
+    box-shadow: 2px 2px 2px grey;
+    background-color: rgb(189, 184, 184);
+    font-size: 17px;
+    padding: 3px;
+}
+
+#Esc{
+    font-family: Arial;
+    font-size: 28px;
+}
+
+.Escolaridade{
+    font-family: sans-serif;
+    font-size: 17px;
+    padding: 3px;
+}
+
+#Habi{
+    font-family: Arial;
+    font-size: 28px;
+}
+
+.Habilidades{
+    font-family: sans-serif;
+    box-shadow: 2px 2px 2px grey;
+    background-color: rgb(189, 184, 184);
+    font-size: 17px;
+    padding: 3px;
+}
+
+body{
+    background-color: rgb(20, 97, 20);
+}
